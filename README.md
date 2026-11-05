@@ -106,10 +106,13 @@ que llama.cpp cargue.
 
 ## 🔧 Escalabilidad
 
-- **4 GPUs o más:** cada `ggml-rpc-server` expone varias GPUs del mismo PC.
-  Con 48 GB se llega a 128K-256K de contexto.
+- **No hay límite de GPUs:** cada `ggml-rpc-server` expone las GPUs de su PC.
+  Añade PCs y GPUs, y el método reparte el modelo entre todas.
+- **4 GPUs (48 GB):** 80B con 128K-256K de contexto.
+- **N GPUs:** lo que sume la VRAM de todos los equipos.
 - **Red 10 GbE:** el RPC mueve activaciones por LAN. Con 10 GbE las
   transferencias son ~4x más rápidas que con 2,5 Gbps.
+- **El único límite real es la VRAM total y el ancho de banda de la red.**
 
 ---
 
