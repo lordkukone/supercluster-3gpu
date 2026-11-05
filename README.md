@@ -136,7 +136,7 @@ que llama.cpp cargue.
 | Soporte para dejarlo funcionando en tu equipo | **300 – 500 €** |
 | **Total si lo haces solo** | **8.300 – 13.000 €** |
 
-**Precio del pack: 149 €** — el 1,5% de lo que te ahorras.
+**Precio del pack: 300 €** — una fracción de lo que te ahorras.
 
 #### Qué incluye
 - 🔒 **Guía maestra completa** (22 KB, 21 apartados, paso a paso)
@@ -144,7 +144,7 @@ que llama.cpp cargue.
 - 🔒 **Scripts listos para ejecutar**
 - 🔒 **Soporte por correo**
 
-👉 **Precio: 149 €** · Contacto: **Ramón M.R. (RMR)** — **kukone510@hotmail.com** — github.com/lordkukone
+👉 **Precio: 300 €** · Contacto: **Ramón M.R. (RMR)** — **kukone510@hotmail.com** — github.com/lordkukone
 
 ---
 

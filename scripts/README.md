@@ -19,7 +19,7 @@ Los scripts que hacen funcionar el reparto de expertos MoE entre las 3 GPUs
 
 ## Precio
 
-**149 €** · Contacto: **kukone510@hotmail.com** — github.com/lordkukone
+**300 €** · Contacto: **kukone510@hotmail.com** — github.com/lordkukone
 
 La compra incluye:
 - Los scripts completos
